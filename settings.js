@@ -17,28 +17,28 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
-global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
+global.INBOX_BLOCK = 'on' //inbox block
+global.alivemsg = 'FUCK'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
+global.owner = ['09021155280'] //ur owner number
 global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: NO YT" //ur yt chanel name
+global.socialm = "N" //ur github or insta name
+global.location = "Iran, isfahan, isfahan" //ur location
 
 //bot bomdy 
-global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://www.darknero.ga/' //script link
+global.session = "dFh5eUtwQTQ=" //session Id
+global.ownernomer = "09021155280" //ur number
+global.lang = "EN" //Select Language "EN" to English "SI" to sinhala 
+global.premium = ['09021155280'] //ur premium number
+global.botname = 'FUCK' //ur bot name
+global.linkz = "NO" //your theme url which will be displayed on whatsapp
+global.websitex = "OK" //ur website to be displayed
+global.botscript = 'OK' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.packname = "FUCK" //ur sticker watermark packname
+global.author = "FUCK BOT Creating By TOHID" //ur sticker watermark author
+global.wm = "FUCK Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
