@@ -8,10 +8,9 @@
   
 ═════════════════════════════════════════════════════════════════════
 ✅ @project_name Queen-MD [WA Multi-device]
-✅ @author DarkWinzo <https://github.com/DarkWinzo>
+✅ @author FUCK 
 ✅ @description A WhatsApp based 3ʳᵈ party application that provide many 
    services with a real-time automated conversational experience
-✅ @link <https://github.com/DarkWinzo/Queen-MD>
 ✅ @version 0.0.1
 ══════════════════════════════════════════════════════════════════════
 */
